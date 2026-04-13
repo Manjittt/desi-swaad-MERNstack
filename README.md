@@ -1,7 +1,7 @@
-# 🛒 MJ-Store  
+# 🛒 desi-swaad  
 ### Full Stack MERN eCommerce Application with Braintree & COD Payments
 
-MJ-Store is a full-stack eCommerce web application built using the MERN stack (MongoDB, Express, React, Node.js).  
+desi-swaad is a full-stack eCommerce web application built using the MERN stack (MongoDB, Express, React, Node.js).  
 It includes secure authentication, role-based authorization, product management, and integrated payment gateway support.
 
 ---
